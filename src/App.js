@@ -13,9 +13,9 @@ function App()
       <p>WVU ID: 800364829</p>
       <p>Hi I am Dante Capuzzi</p>
       <div style={{ display: 'flex', justifyContent: 'center' }}>
-        <Card />
-        <Card />
-        <Card />
+        <Card title="Card 01" color="blue" />
+        <Card title="Card 02" color="red" />
+        <Card title="Card 03" color="green" />
       </div>
     </div>
   );
