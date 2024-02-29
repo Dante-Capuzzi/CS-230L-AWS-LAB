@@ -1,4 +1,4 @@
-import 'bootstrap'
+import 'bootstrap';
 
 function Card()
 {
@@ -11,3 +11,5 @@ function Card()
     </div>
   )
 }
+
+export default Card;
